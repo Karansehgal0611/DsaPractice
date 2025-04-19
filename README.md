@@ -53,8 +53,10 @@ This repository serves as a personal DSA practice ground, and can be useful for:
 - Beginners learning DSA in C
 - Anyone looking to brush up on fundamentals
 
-#📌 Contributions
+# 📌 Contributions
 Feel free to fork the repo, open issues, or submit pull requests with improvements or additional implementations. Let's learn together!
+---
 
-Author - Karan Sehgal
+## Author 
+Karan Sehgal
 
